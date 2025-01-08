@@ -1,5 +1,12 @@
 # Hello, I am Alireza 👋
+⚡As a Full-Stack Web and App Developer, I specialize in building scalable and responsive applications using technologies such as MongoDB, Express.js, React.js, Node.js, and SQL. My proficiency extends to front-end development with HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap, as well as version control using Git and GitHub. I am passionate about delivering high-quality software solutions that enhance user experience and drive business success.
 
+Key Skills:
+
+• Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+• Back-End: Node.js, Express.js
+• Databases: MongoDB, SQL
+• Version Control: Git, GitHub
 🌱 I am a **Full-Stack Web Developer based in Munich, Germany. <br><br>
 🤝 I’m also looking to collaborate with other developers.<br><br>
 <br>
