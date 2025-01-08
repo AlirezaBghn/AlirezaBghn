@@ -1,7 +1,6 @@
 # Hello, I am Alireza 👋
 
 🌱 I am a \*\*Full-Stack Web Developer based in Munich, Germany. <br><br>
-
 ⚡Key Skills:
 
 • Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
@@ -14,8 +13,6 @@
 
 🤝 I’m also looking to collaborate with other developers.<br><br>
 <br>
-<br>
-
 ## Reach me on
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alireza.baghbann@gmail.com)
