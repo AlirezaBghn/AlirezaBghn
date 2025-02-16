@@ -3,13 +3,12 @@
 🌱 I am a \*\*Full-Stack Web Developer based in Munich, Germany. <br><br>
 ⚡Key Skills:
 
-• Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-
-• Back-End: Node.js, Express.js
-
-• Databases: MongoDB, SQL
-
+• Front-End: HTML, CSS, JavaScript, React.js, Vite, Tailwind CSS, DaisyUI, Bootstrap
+• Back-End: Node.js, Express.js, Mongoose
+• Databases: SQL, NoSQL (MongoDB)
+• APIs: Open API, REST APIs
 • Version Control: Git, GitHub
+• Tools & Analytics: Power BI, Excel
 
 🤝 I’m also looking to collaborate with other developers.<br><br>
 <br>
