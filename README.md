@@ -5,7 +5,7 @@
 ⚡ **Key Skills:**
 
 • **Front-End:** HTML, CSS, JavaScript, React.js, Vite, Tailwind CSS, DaisyUI, Bootstrap  
-• **Back-End:** Node.js, Express.js,Open AI, Mongoose.
+• **Back-End:** Node.js, Express.js, Mongoose
 • **Databases:** SQL, NoSQL (MongoDB)  
 • **APIs:** Open API, REST APIs  
 • **Version Control:** Git, GitHub  
