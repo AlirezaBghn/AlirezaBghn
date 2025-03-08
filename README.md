@@ -1,53 +1,80 @@
-# Hello, I am Alireza 👋
+# 👋 Hi, I'm Alireza Baghban
 
-🌱 I am a **Full-Stack Web Developer** based in Munich, Germany. <br><br>
+I'm a **Full-Stack Web Developer** based in Munich, Germany, passionate about building responsive and user-centric applications.
 
-⚡ **Key Skills:**
+---
 
-• **Front-End:** HTML, CSS, JavaScript, React.js, Vite, Tailwind CSS, DaisyUI, Bootstrap  
-• **Back-End:** Node.js, Express.js, Mongoose
-• **Databases:** SQL, NoSQL (MongoDB)  
-• **APIs:** Open API, REST APIs  
-• **Version Control:** Git, GitHub  
-• **Tools & Analytics:** Power BI, Excel  
+## 💡 About Me
 
-🤝 I’m also looking to collaborate with other developers.<br><br>
-<br>
+- 🚀 I specialize in creating interactive, scalable, and dynamic web applications.
+- 🤝 Always open to collaborations and eager to work with developers worldwide.
 
-## 📬 Reach me on
+---
+
+## 🛠️ Technical Skills
+
+### Frontend
+- **HTML5, CSS3, JavaScript, React.js, React Native, Vite, Tailwind CSS, DaisyUI, Bootstrap**
+
+### Backend
+- **Node.js, Express.js, OpenAI API**
+
+### Databases
+- **SQL, MongoDB (NoSQL)**
+
+### APIs & Integrations
+- **REST APIs, OpenAI**
+
+### Version Control
+- **Git, GitHub**
+
+### Tools & Analytics
+- **Power BI, Excel, Figma, Postman, Trello**
+
+---
+
+## 📬 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alireza.baghbann@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alireza-baghbann)
-<br>
-<br>
 
-## 💻 Tech stack
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 🚀 My Tech Stack
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-<br>
-<br>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 My GitHub stats
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaBghn&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBghn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaBghn&show_icons=true&theme=radical)](https://github.com/AlirezaBghn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBghn&layout=compact&theme=radical)](https://github.com/AlirezaBghn)
+
 </div>
 
-## 🏆 GitHub trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=AlirezaBghn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AlirezaBghn&theme=radical&margin-w=4)
+
+---
+
