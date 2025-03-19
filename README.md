@@ -14,10 +14,10 @@ I'm a **Full-Stack Web Developer** based in Munich, Germany, passionate about bu
 ## 🛠️ Technical Skills
 
 ### Frontend
-- **HTML5, CSS3, JavaScript, React.js, React Native, Vite, Tailwind CSS, DaisyUI, Bootstrap**
+- **Next.js, React.js, React Native, HTML5, CSS3, JavaScript, Vite, Tailwind CSS, DaisyUI, Bootstrap**
 
 ### Backend
-- **Node.js, Express.js, OpenAI API**
+- **Node.js, Express.js, OpenAI API ,Rest Api**
 
 ### Databases
 - **SQL, MongoDB (NoSQL)**
