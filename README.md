@@ -66,17 +66,7 @@ I'm a **Full-Stack Web Developer** based in Munich, Germany, with a passion for 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaBghn&show_icons=true&theme=radical)](https://github.com/AlirezaBghn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBghn&layout=compact&theme=radical)](https://github.com/AlirezaBghn)
-
-</div>
 
 ---
 
